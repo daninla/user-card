@@ -96,6 +96,7 @@ img {
   background-color: rgb(38, 44, 80);
   border-right: 5px rgb(53, 58, 87) groove;
   color: #e6e3e3;
+  outline: 1px solid rgb(38, 44, 80);
 }
 .card-stat:last-child {
   border-right: none;
